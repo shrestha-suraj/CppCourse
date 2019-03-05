@@ -1,3 +1,12 @@
+/* Course: CSCI 259, Section 2
+ Student Name: Suraj Shrestha
+ Student ID: 010616383
+ Lab 3 in class
+ Due Date:
+ In keeping with the Honor Code of UM, I have neither
+ given nor received assistance from anyone other than the instructor.
+ Program Description: Calculates the price based on user input of internet package and amount used per month
+*/
 #include<iostream>
 using namespace std;
 //Main method returning  0 for code run
